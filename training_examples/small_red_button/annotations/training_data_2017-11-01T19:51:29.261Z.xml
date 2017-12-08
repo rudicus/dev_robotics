@@ -1,0 +1,26 @@
+<annotation>
+	<folder>small_red</folder>
+	<filename>training_data_2017-11-01T19:51:29.261Z.jpg</filename>
+	<path>/data/users/mryan/src/intera/src/tensor/data/small_red/training_data_2017-11-01T19:51:29.261Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>752</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>small_red_button</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>596</xmin>
+			<ymin>405</ymin>
+			<xmax>661</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dull_green</folder>
+	<filename>training_data_2017-11-01T18:57:08.744Z.jpg</filename>
+	<path>/data/users/mryan/src/intera/src/tensor/data/dull_green/training_data_2017-11-01T18:57:08.744Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>752</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dull_green_button</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>167</ymin>
+			<xmax>241</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>
